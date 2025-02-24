@@ -4,4 +4,7 @@
 
 ###### Today i'm learning MARKDOWN! feb 24, 2025 ######
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+```
+$ This is my github account
+https://github.com/ajdalagon2006
+```
