@@ -8,3 +8,9 @@
 $ This is my github account
 https://github.com/ajdalagon2006
 ```
+
+```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+```
